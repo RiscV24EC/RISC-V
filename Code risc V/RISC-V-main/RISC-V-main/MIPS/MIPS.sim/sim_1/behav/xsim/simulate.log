@@ -1,0 +1,11 @@
+Time resolution is 1 ps
+=======================================
+BAT DAU CHAY TESTBENCH KIEM TRA RE NHANH VA BO NHO...
+--- KET QUA TEST ---
+[PASS] Tinh tong $s2 va ghi vao Data Memory thanh cong (Gia tri: 15).
+[PASS] Doc lw vao $s3 thanh cong (Gia tri: 15).
+[PASS] Lenh beq HOAT DONG CHUAN XAC! Da nhay qua lenh cong 99.
+[PASS] Thanh ghi $s5 nhan dung gia tri 42.
+=======================================
+
+$finish called at time : 165 ns : File "/mnt/d/NCKH RISC V/Code risc V/RISC-V-main/RISC-V-main/MIPS/MIPS.srcs/sim_1/new/tb_mips_top.v" Line 53
